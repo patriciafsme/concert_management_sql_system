@@ -31,4 +31,5 @@ The repository contains a robust SQL script featuring:
 <img width="2041" height="1188" alt="image" src="https://github.com/user-attachments/assets/2404a795-e243-4160-af6b-2f261ae07dc2" />
 
 ---
+
 *Project developed as part of the Applied Data Science degree (UCM).*
